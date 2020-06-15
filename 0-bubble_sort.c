@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * void bubble_sort - order with Bubble sort.
+ * bubble_sort - order with Bubble sort.
  *@array: expected to a sort.
  *@size: size of the a array.
  * Return: void.
