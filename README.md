@@ -1,6 +1,6 @@
 # Project sorting_algorithms :computer:
 
-### files :page_facing_up:
+### Files mandatory :page_facing_up:
 
 * 0-bubble_sort
 * 0-O
@@ -14,3 +14,4 @@
 ## Author :black_nib:
 
 * **David De La Hoz** [Github](https://github.com/daviddlhz)
+* **Jhonatan Angarita** [Github](https://github.com/JhonathanAlejandro01)
